@@ -14,7 +14,7 @@ export default function Home({ data }) {
         <div>
           <h2>Design</h2>
           <h3>Develop and Deploy</h3>
-          <p>Ux Designer and Web Developer based in the Philippines</p>
+          <p>Full-Stack Web Developer based in the Philippines</p>
           <Link className={styles.btn} to="/projects">My portfolio projects</Link>
         </div>
         <GatsbyImage image={image} alt="site banner" />
